@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    "window.zoomLevel": -1,
+    "editor.renderControlCharacters": true,
+    "workbench.colorCustomizations": {        
+        //"tab.inactiveForeground": "#919191",
+        //"tab.activeBorder": "#919191",
+        //"tab.activeForeground": "#000000",
+        "tab.inactiveBackground": "#cccccc"        
+    }
+}
